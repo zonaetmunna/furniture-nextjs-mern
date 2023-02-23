@@ -11,4 +11,4 @@ export default function MyApp({ Component, pageProps }: AppProps) {
       <Component {...pageProps} />
     </Provider>
   )
-}
+};
